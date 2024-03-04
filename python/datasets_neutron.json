@@ -1,0 +1,10 @@
+{ 
+  "inDSs": [
+    "mc16_13TeV.901917.PG_neutron_logE1p0to2000_etaLT25.recon.ESD.e8470_e7400_s3170_r14501",
+    "mc16_13TeV.901933.PG_neutron_logE1p0to2000_etaGT25.recon.ESD.e8470_e7400_s3170_r14501"
+  ],
+  "outDSs": [
+    "901917.PG_neutron_logE1p0to2000_etaLT25.recon.ESD.e8470_e7400_s3170_r14501",
+    "901933.PG_neutron_logE1p0to2000_etaGT25.recon.ESD.e8470_e7400_s3170_r14501"
+  ]
+}

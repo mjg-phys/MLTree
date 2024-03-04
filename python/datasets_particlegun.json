@@ -1,0 +1,10 @@
+{ 
+  "inDSs": [
+    "mc21_13p6TeV.901958.PG_singleomega_logE0p5to2000.recon.ESD.e8537_e8455_s3986_s3874_r14060",
+    "mc21_13p6TeV.900148.PG_singlerho_logE5to2000_flatM0p5to5.recon.ESD.e8537_e8455_s3986_s3874_r14060"
+  ],
+  "outDSs": [
+    "901958.PG_singleomega_logE0p5to2000.recon.ESD.e8537_e8455_s3986_s3874_r14060",
+    "900148.PG_singlerho_logE5to2000_flatM0p5to5.recon.ESD.e8537_e8455_s3986_s3874_r14060"
+  ]
+}

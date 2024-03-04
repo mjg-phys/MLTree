@@ -1,0 +1,10 @@
+{ 
+  "inDSs": [
+    "mc16_13TeV.901911.PG_pizero_logE0p2to2000_etaLT25.recon.ESD.e8470_e7400_s3170_r14501",
+    "mc16_13TeV.901927.PG_pizero_logE0p2to2000_etaGT25.recon.ESD.e8470_e7400_s3170_r14501"
+  ],
+  "outDSs": [
+    "901911.PG_pizero_logE0p2to2000_etaLT25.recon.ESD.e8470_e7400_s3170_r14501",
+    "901927.PG_pizero_logE0p2to2000_etaGT25.recon.ESD.e8470_e7400_s3170_r14501"
+  ]
+}
